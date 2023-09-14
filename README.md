@@ -42,7 +42,7 @@
     - _Spring Web_
     - _Spring Boot DevTools_
     - _Spring Security_
-    - _jjwt_
+    - _jwt_
     - _Spring Data JPA_
     - _Lombok_
     - _SQLite_
